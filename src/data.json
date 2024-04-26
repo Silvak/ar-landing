@@ -1,0 +1,172 @@
+{
+  "header": {
+    "pageName": ["Edu", "cation"],
+    "links": [
+      { "title": "Courses", "url": "#courses" },
+      { "title": "About", "url": "#about" },
+      { "title": "Features", "url": "#features" },
+      { "title": "Programs", "url": "#programs" },
+      { "title": "Students", "url": "#opinion" }
+    ],
+    "button": {
+      "text": "CONTACT US",
+      "url": "#contact"
+    }
+  },
+  "section1": {
+    "title": ["Online", "Learning you can access", "any where easily!"],
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.....",
+    "textButton": "JOIN COURSE",
+    "images": ["person1.png", "bgHero.png"],
+    "slides": [
+      {
+        "title": "150+",
+        "text": "Total Courses"
+      },
+      {
+        "title": "250",
+        "text": "Total Instructor"
+      },
+      {
+        "title": "35K+",
+        "text": "Total Student"
+      }
+    ]
+  },
+  "section2": {
+    "title": ["Why we are", "best from others?"],
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.....",
+    "cards": [
+      {
+        "id": 1,
+        "icon": "book.png",
+        "title": "Digital Platform",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been....."
+      },
+      {
+        "id": 2,
+        "icon": "idea.png",
+        "title": "Optimal Ideation",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been....."
+      },
+      {
+        "id": 3,
+        "icon": "leaf.png",
+        "title": "Favorable Setting",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been....."
+      },
+      {
+        "id": 4,
+        "icon": "face.png",
+        "title": "Effective Interaction",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been....."
+      },
+      {
+        "id": 5,
+        "icon": "time.png",
+        "title": "Flexible Time",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been....."
+      },
+      {
+        "id": 6,
+        "icon": "heart.png",
+        "title": "Reliable",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been....."
+      }
+    ]
+  },
+  "section3": {
+    "title": ["About", "Company"],
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.....",
+    "videoURL": "https://www.youtube.com/watch?v=ATVGl9wOJsM"
+  },
+  "section4": {
+    "title": ["Effortless Enrollment"],
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry....",
+    "cards": [
+      {
+        "id": "01",
+        "text": "Choose a Program"
+      },
+      {
+        "id": "02",
+        "text": "Enroll and Submit Documents"
+      },
+      {
+        "id": "03",
+        "text": "Choose a Date and Time"
+      },
+      {
+        "id": "04",
+        "text": "Pick an Instructor"
+      },
+      {
+        "id": "05",
+        "text": "Then Start"
+      }
+    ]
+  },
+  "section5": {
+    "title": ["Our", "Programs"],
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.....",
+    "cards": [
+      {
+        "id": 1,
+        "image": "program1.png",
+        "title": "English Programs",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley......",
+        "textButton": "READ MORE"
+      },
+      {
+        "id": 2,
+        "image": "program2.png",
+        "title": "English Programs",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley......",
+        "textButton": "READ MORE"
+      },
+      {
+        "id": 3,
+        "image": "program3.png",
+        "title": "English Programs",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley......",
+        "textButton": "READ MORE"
+      }
+    ]
+  },
+  "section6": {
+    "title": ["What", "our students Say"],
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.....",
+    "cards": [
+      {
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s.........",
+        "author": "James Thomas",
+        "authorImage": "thomas.png",
+        "location": "GERMANY"
+      }
+    ]
+  },
+
+  "section7": {
+    "title": ["Contact", "us!"],
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.....",
+    "textButton": "Contact us",
+    "email": "education@mail.com"
+  },
+  "footer": {
+    "brand": {
+      "title": "Education",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    "about": {
+      "title": "About",
+      "menu": ["About", "Features", "News", "Help"]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "location": "Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Bangalore-560016",
+      "phone": "+1 202-918-2132",
+      "email": "education@mail.com"
+    },
+    "copy": "Derechos reservados 2024."
+  }
+}
