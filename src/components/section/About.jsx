@@ -1,29 +1,29 @@
 import data from "@/data.json";
-import ReactPlayer from "react-player";
+import { Button } from "@/components/ui/button";
 
 function About() {
-  const { title, text, videoURL } = data.section3;
+  const { images, content } = data.section2;
+
   return (
-    <section id="about" className="mt-[124px] ">
-      <div className="flex flex-col justify-center items-center gap-[28px] mb-[32px]">
-        <h2 className="text-[52px] text-center">
-          <span className="text-[#525FE1] font-bold">{title[0]}</span>{" "}
-          {title[1]}
-        </h2>
-        <p className="text-[#333333] text-center">{text}</p>
+    <section
+      id="about"
+      className="grid grid-cols-1 md:grid-cols-2 min-h-[400px] gap-[20px] md:gap-[40px]"
+    >
+      {/* Images */}
+      <div className="flex gap-[20px]">
+        <div className=" w-[50%]">
+          <img src={images[0]} className="object-cover w-full" />
+        </div>
+        <div className=" mt-[20%] lg:mt-[40%] w-[50%] ">
+          <img src={images[1]} className="object-cover w-full" />
+        </div>
       </div>
 
-      <div className="player-wrapper">
-        <ReactPlayer
-          url={videoURL}
-          className="react-player"
-          controls
-          loop
-          autoPlay
-          muted
-          width="100%"
-          height="100%"
-        />
+      {/* Content */}
+      <div className="flex flex-col gap-[20px] items-start  justify-center lg:justify-end lg:pl-[10%]  ">
+        <h2 className="text-[34px] font-bold">{content.title}</h2>
+        <p className="">{content.text}</p>
+        <Button className="mt-2">{content.textButton}</Button>
       </div>
     </section>
   );
