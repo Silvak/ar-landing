@@ -2,15 +2,15 @@ import data from "@/data.json";
 import { Button } from "@/components/ui/button";
 
 function Contact() {
-  const { title, text, email, textButton } = data.section7;
+  const { id, title, text, email, textButton } = data.section6;
   return (
     <section
-      id="contact"
-      className="flex flex-col items-center justify-center mt-[168px] min-h-[40vh]"
+      id={id}
+      className="flex flex-col items-center justify-center mt-[124px] min-h-[40vh] bg-[#F8F8F8]"
     >
-      <div className="flex flex-col justify-center items-center gap-[28px] mb-[32px]">
-        <h2 className="text-[52px] text-center">
-          <span className="text-[#525FE1] font-bold">{title[0]}</span>{" "}
+      <div className="flex flex-col justify-center items-center gap-[28px] mb-[32px] max-w-[1200px] px-4 md:px-6 lg:px-4 xl:px-0">
+        <h2 className="text-[32px] text-center">
+          <span className="text-[#BC3CD8] font-bold">{title[0]}</span>{" "}
           {title[1]}
         </h2>
         <p className="text-[#333333] text-center">{text}</p>

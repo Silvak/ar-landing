@@ -6,7 +6,7 @@ function Footer() {
   const { pageName, links, button } = data.header;
 
   return (
-    <footer className="mt-[124px] w-full min-h-[354px] bg-[#111538] text-white pt-[54px]">
+    <footer className="w-full min-h-[354px] bg-[#32276B] text-white pt-[54px]">
       <Layout>
         <div className="grid grid-cols-1 md:grid-cols-3 w-full gap-[40px] mb-[48px]">
           <div className="flex flex-col  justify-start items-start">

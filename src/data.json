@@ -3,11 +3,10 @@
     "pageName": ["L", "IGHT"],
     "links": [
       { "title": "About", "url": "#about" },
-      { "title": "Company", "url": "#company" },
-      { "title": "Features", "url": "#features" },
       { "title": "Projects", "url": "#projects" },
-      { "title": "Testers", "url": "#opinion" },
-      { "title": "Blog", "url": "#opinion" }
+      { "title": "Company", "url": "#company" },
+      { "title": "Testers", "url": "#testers" },
+      { "title": "Blog", "url": "#blog" }
     ],
     "button": {
       "text": "CONTACT US",
@@ -30,6 +29,7 @@
     }
   },
   "section2": {
+    "id": "about",
     "images": ["section2person1.png", "section2person2.png"],
     "content": {
       "title": "New Experience In Playing Game",
@@ -37,14 +37,85 @@
       "textButton": "Get it Now"
     }
   },
-
-  "section7": {
+  "section3": {
+    "id": "projects",
+    "title": "Projects",
+    "cards": [
+      {
+        "image": "project1.png",
+        "title": "HoloLens",
+        "text": "HoloLens display information, blend with the real world , or even simulate a virtual world."
+      },
+      {
+        "image": "project2.png",
+        "title": "TPCASTT",
+        "text": "Method is great to start students reading and inferring with little assistance from the instructor"
+      }
+    ]
+  },
+  "section4": {
+    "id": "company",
+    "images": ["section2person1.png", "section2person2.png"],
+    "content": {
+      "title": "How it works?",
+      "subtitle": "All for healthy",
+      "text": "Lorem ipsum dolor sit amet consectetur. Consectetur a sed porttitor nisl tortor pharetra in elit. Nulla gravida lectus nec quis mollis iaculis amet senectus. Fringilla mauris id quam quam. Pulvinar id condimentum ut nullam. Consequat urna lobortis luctus at dolor massa mauris. Mus bibendum sit.",
+      "textButton": "Get it Now"
+    }
+  },
+  "section5": {
+    "id": "testers",
+    "title": "What our clients say",
+    "text": "See what our customer say about us. It really matter for us. How good or bad we will make ir for evaluation to make EhyalLive better.",
+    "cards": [
+      {
+        "head": ["starstar", "star"],
+        "quote": "I know in real-time where the money is spent,and I don’t have to lend out the company’s credit card anymore. What a relief!",
+        "clienteImg": "client1.png",
+        "name": "Denny Hilguston",
+        "email": "@denny.hill"
+      },
+      {
+        "head": ["starstar", "star"],
+        "quote": "VISUALS are much better. The improvements in optics and resolution and much more than a modern console generation leap.",
+        "clienteImg": "client2.png",
+        "name": "Vani Pandey",
+        "email": "@vani.pandey"
+      },
+      {
+        "head": ["starstar", "star"],
+        "quote": "I can actually see the improvement in the graphics, not having the external sensors is a big plus.",
+        "clienteImg": "client3.png",
+        "name": "milly Singh",
+        "email": "@milly.singh"
+      }
+    ]
+  },
+  "section6": {
+    "id": "contact",
     "title": ["Contact", "us!"],
     "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.....",
-    "textButton": "Contact us",
-    "email": "education@mail.com"
+    "textButton": "Contact",
+    "email": "light@mail.com"
+  },
+  "banner": {
+    "title": "Heading the next gen therapy",
+    "textButton": "Get started"
   },
   "footer": {
+    "brand": {
+      "title": "LIGHT",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    },
+    "about": {
+      "title": "About"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "location": "1st Block 1st Cross, Rammurthy nagar, Bangalore-560016",
+      "phone": "+4 230-112-579",
+      "email": "light@mail.com"
+    },
     "copy": "Derechos reservados 2024."
   }
 }
