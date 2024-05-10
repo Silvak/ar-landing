@@ -2,11 +2,14 @@
   "header": {
     "pageName": ["L", "IGHT"],
     "links": [
-      { "title": "About", "url": "#about" },
+      { "title": "Mission", "url": "#about" },
       { "title": "Projects", "url": "#projects" },
       { "title": "Company", "url": "#company" },
       { "title": "Testers", "url": "#testers" },
-      { "title": "Blog", "url": "#blog" }
+      {
+        "title": "Blog",
+        "url": "https://arneurocare.blog.sistemasvirtuales.net"
+      }
     ],
     "button": {
       "text": "CONTACT US",
@@ -14,11 +17,11 @@
     }
   },
   "section1": {
-    "title": ["Let’s Explore", "Three-Dimensional visual"],
-    "text": "With virtual technology you can see the digital world feel more real and you can play the game with a new style.",
+    "title": ["ARneuroCARE:", "Connecting worlds to always remember"],
+    "text": "Discover a new dimension in cognitive care with ARneuroCARE. Our augmented reality content platform offers a unique experience, designed specifically to stimulate minds affected by Alzheimer's. With ARneuroCARE, every interaction is an opportunity to enrich life and mind.",
     "textButton": "Get it Now",
     "textButton2": "Explore Device",
-    "images": ["person1.png", "bgHero.png"],
+    "images": ["img/1.png", "img/1.png"],
     "imageContent": {
       "title": "Cinematic Virtual Reality",
       "text": "Let’s be the best for more real and effective results and ready to explore the limitless world that we have prepared for you."
@@ -32,24 +35,19 @@
     "id": "about",
     "images": ["section2person1.png", "section2person2.png"],
     "content": {
-      "title": "New Experience In Playing Game",
-      "text": "You can try playing the game with a new style and of course a more real feel, like you are the main character in your game and adventure in this new digital world.",
+      "title": "MISSION",
+      "text": "Our mission is to provide effective and accessible tools that promote independence and well-being for people with Alzheimer's, using cutting-edge technology and science-backed methods.",
       "textButton": "Get it Now"
     }
   },
   "section3": {
     "id": "projects",
-    "title": "Projects",
+    "title": "PROJECT",
     "cards": [
       {
-        "image": "project1.png",
-        "title": "HoloLens",
-        "text": "HoloLens display information, blend with the real world , or even simulate a virtual world."
-      },
-      {
-        "image": "project2.png",
-        "title": "TPCASTT",
-        "text": "Method is great to start students reading and inferring with little assistance from the instructor"
+        "image": "img/3.png",
+        "title": "ARneurocare: Augmented Reality Content Platform for Alzheimer's Cognitive Stimulation",
+        "text": "This project aims to develop a platform that utilizes augmented reality technology to provide cognitive stimulation for individuals with Alzheimer's disease."
       }
     ]
   },
@@ -57,34 +55,34 @@
     "id": "company",
     "images": ["section2person1.png", "section2person2.png"],
     "content": {
-      "title": "How it works?",
-      "subtitle": "All for healthy",
-      "text": "Lorem ipsum dolor sit amet consectetur. Consectetur a sed porttitor nisl tortor pharetra in elit. Nulla gravida lectus nec quis mollis iaculis amet senectus. Fringilla mauris id quam quam. Pulvinar id condimentum ut nullam. Consequat urna lobortis luctus at dolor massa mauris. Mus bibendum sit.",
+      "title": "Why trust us",
+      "subtitle": "",
+      "text": "Trust ARneuroCARE because we are supported by an interdisciplinary team of highly trained professionals committed to the well-being of our users. Additionally, our solutions are designed to the highest quality and are backed by rigorous scientific research.",
       "textButton": "Get it Now"
     }
   },
   "section5": {
     "id": "testers",
-    "title": "What our clients say",
-    "text": "See what our customer say about us. It really matter for us. How good or bad we will make ir for evaluation to make EhyalLive better.",
+    "title": "Those who have trusted us",
+    "text": "We've been fortunate to collaborate with leading health institutions, senior care facilities, and compassionate families and caregivers dedicated to addressing Alzheimer's challenges. Our partners include research centers, nursing homes, and non-profits supporting dementia patients.",
     "cards": [
       {
-        "head": ["starstar", "star"],
-        "quote": "I know in real-time where the money is spent,and I don’t have to lend out the company’s credit card anymore. What a relief!",
+        "head": ["ARneuro", "CARE"],
+        "quote": "We're revolutionizing Alzheimer's care with our augmented reality platform, fostering memory, cognition, and emotional connections.",
         "clienteImg": "client1.png",
         "name": "Denny Hilguston",
         "email": "@denny.hill"
       },
       {
-        "head": ["starstar", "star"],
-        "quote": "VISUALS are much better. The improvements in optics and resolution and much more than a modern console generation leap.",
+        "head": ["ARneuro", "CARE"],
+        "quote": "We're empowering Alzheimer's minds with our immersive augmented reality platform, fostering cognition and emotional well-being. Join us in shaping a future where cognitive care means hope and possibility.",
         "clienteImg": "client2.png",
         "name": "Vani Pandey",
         "email": "@vani.pandey"
       },
       {
-        "head": ["starstar", "star"],
-        "quote": "I can actually see the improvement in the graphics, not having the external sensors is a big plus.",
+        "head": ["ARneuro", "CARE"],
+        "quote": "ARneuroCARE, an AR content platform, revolutionizes cognitive care for Alzheimer's patients, offering a unique, effective experience shaped by years of research.",
         "clienteImg": "client3.png",
         "name": "milly Singh",
         "email": "@milly.singh"
@@ -94,28 +92,28 @@
   "section6": {
     "id": "contact",
     "title": ["Contact", "us!"],
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.....",
+    "text": "Discover a new dimension in cognitive care with ARneuroCARE.",
     "textButton": "Contact",
     "email": "light@mail.com"
   },
   "banner": {
-    "title": "Heading the next gen therapy",
+    "title": "At the forefront of innovation is ARneuroCARE. Our augmented reality content platform is redefining Alzheimer's care.",
     "textButton": "Get started"
   },
   "footer": {
     "brand": {
-      "title": "LIGHT",
-      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+      "title": "ARneuroCARE",
+      "text": "Care with Compassion, Care with ARneuroCARE At ARneuroCARE, we understand the importance of caring with empathy and understanding. Our augmented reality content platform not only stimulates cognitively, but also nourishes the soul. Join us in our commitment to providing quality care to those affected by Alzheimer's."
     },
     "about": {
       "title": "About"
     },
     "contact": {
       "title": "Contact Us",
-      "location": "1st Block 1st Cross, Rammurthy nagar, Bangalore-560016",
-      "phone": "+4 230-112-579",
-      "email": "light@mail.com"
+      "location": "Canarias, Spain",
+      "phone": "230-112-579",
+      "email": "info@arneurocare.com"
     },
-    "copy": "Derechos reservados 2024."
+    "copy": "Copyright © 2024 ARneuroCARE."
   }
 }

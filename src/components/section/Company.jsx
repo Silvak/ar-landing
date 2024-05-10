@@ -1,5 +1,5 @@
 import data from "@/data.json";
-import { Button } from "@/components/ui/button";
+//import { Button } from "@/components/ui/button";
 
 function Company() {
   const { id, images, content } = data.section4;
@@ -14,7 +14,7 @@ function Company() {
         <h2 className="text-[34px] font-bold">{content.title}</h2>
         <p className="text-[18px] font-bold">{content.subtitle}</p>
         <p className="">{content.text}</p>
-        <Button className="mt-2">{content.textButton}</Button>
+        {/* <Button className="mt-2">{content.textButton}</Button> */}
       </div>
 
       {/* Images */}

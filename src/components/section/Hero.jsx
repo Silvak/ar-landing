@@ -16,8 +16,10 @@ function Hero() {
           <p className="text-[#808080] text-[16px]">{text}</p>
 
           <div className="flex gap-4">
-            <Button>{textButton}</Button>
-            <Button variant="outline">{textButton2}</Button>
+            <a href="#contact">
+              <Button>{textButton}</Button>
+            </a>
+            {/*  <Button variant="outline">{textButton2}</Button> */}
           </div>
 
           <div className="flex gap-[-20px] items-center">
@@ -36,20 +38,12 @@ function Hero() {
         </div>
 
         {/* image */}
-        <div className=" w-full h-full min-w-[550px] hidden lg:flex">
-          <div className="flex justify-end w-full h-full relative overflow-hidden">
+        <div className=" w-full h-full min-w-[550px] hidden lg:flex items-center  ">
+          <div className="flex justify-end w-full h-[480px] relative overflow-hidden rounded-lg ">
             <img
-              src={"hero1.png"}
+              src={"img/4.png"}
               className="absolute bottom-[20%] lg:bottom-0   object-contain"
             />
-
-            <div className="absolute lg:bottom-[8%] xl:bottom-[10%] w-full flex flex-col gap-[18px] items-center text-gray-200 pl-[19%] pr-[22%] py-[8%]">
-              <h2 className="text-[24px] font-bold">{imageContent.title}</h2>
-              <div className="bg-white/80 w-[50%] h-[1px]"></div>
-              <p className="text-center text-sm mt-[2px]">
-                {imageContent.text}
-              </p>
-            </div>
           </div>
         </div>
       </div>

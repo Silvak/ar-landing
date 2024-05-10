@@ -1,15 +1,15 @@
 import { Button } from "@/components/ui/button";
 import data from "@/data.json";
+import logo from "../../public/logo/black.svg";
 
 function Header() {
   const { pageName, links, button } = data.header;
   return (
     <header className="fixed flex w-full justify-center items-center  border-b border-gray-200/50 px-4 md:px-8 lg:px-4 xl:px-0 z-[1000] backdrop-blur-lg bg-white/70  ">
       <div className="flex justify-between items-center w-full max-w-[1200px] py-[14px] ">
-        <div className="text-[22px] font-bold text-[#1C1C1C]">
+        <div className="text-[22px] font-bold text-[#1C1C1C] w-[160px] md:w-[200px]">
           <a href="/">
-            <span className="text-[#525FE1]">{pageName[0]}</span>
-            {pageName[1]}
+            <img src={logo} alt="" className="" />
           </a>
         </div>
 

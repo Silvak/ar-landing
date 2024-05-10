@@ -18,7 +18,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        banner: "url('/banner.png')",
+        banner: "url('/imgh/1.png')",
       },
       colors: {
         border: "hsl(var(--border))",

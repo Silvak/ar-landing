@@ -1,5 +1,5 @@
 import data from "@/data.json";
-import { Button } from "@/components/ui/button";
+//import { Button } from "@/components/ui/button";
 
 function About() {
   const { id, images, content } = data.section2;
@@ -20,10 +20,10 @@ function About() {
       </div>
 
       {/* Content */}
-      <div className="flex flex-col gap-[20px] items-start  justify-center lg:justify-end lg:pl-[10%]  ">
+      <div className="flex flex-col gap-[20px] items-start  justify-center lg:justify-center lg:pl-[10%]  ">
         <h2 className="text-[34px] font-bold">{content.title}</h2>
         <p className="">{content.text}</p>
-        <Button className="mt-2">{content.textButton}</Button>
+        {/* <Button className="mt-2">{content.textButton}</Button> */}
       </div>
     </section>
   );
