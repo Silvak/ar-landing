@@ -8,7 +8,7 @@
       { "title": "Testers", "url": "#testers" },
       {
         "title": "Blog",
-        "url": "https://arneurocare.blog.sistemasvirtuales.net"
+        "url": "https://cognoar.blog.sistemasvirtuales.net"
       }
     ],
     "button": {
@@ -17,8 +17,8 @@
     }
   },
   "section1": {
-    "title": ["ARneuroCARE:", "Connecting worlds to always remember"],
-    "text": "Discover a new dimension in cognitive care with ARneuroCARE. Our augmented reality content platform offers a unique experience, designed specifically to stimulate minds affected by Alzheimer's. With ARneuroCARE, every interaction is an opportunity to enrich life and mind.",
+    "title": ["COGNOAR:", "Connecting worlds to always remember"],
+    "text": "Discover a new dimension in cognitive care with Cognoar. Our augmented reality content platform offers a unique experience, designed specifically to stimulate minds affected by Alzheimer's. With Cognoar, every interaction is an opportunity to enrich life and mind.",
     "textButton": "Get it Now",
     "textButton2": "Explore Device",
     "images": ["img/1.png", "img/1.png"],
@@ -46,7 +46,7 @@
     "cards": [
       {
         "image": "img/3.png",
-        "title": "ARneurocare: Augmented Reality Content Platform for Alzheimer's Cognitive Stimulation",
+        "title": "Cognoar: Augmented Reality Content Platform for Alzheimer's Cognitive Stimulation",
         "text": "This project aims to develop a platform that utilizes augmented reality technology to provide cognitive stimulation for individuals with Alzheimer's disease."
       }
     ]
@@ -57,7 +57,7 @@
     "content": {
       "title": "Why trust us",
       "subtitle": "",
-      "text": "Trust ARneuroCARE because we are supported by an interdisciplinary team of highly trained professionals committed to the well-being of our users. Additionally, our solutions are designed to the highest quality and are backed by rigorous scientific research.",
+      "text": "Trust Cognoar because we are supported by an interdisciplinary team of highly trained professionals committed to the well-being of our users. Additionally, our solutions are designed to the highest quality and are backed by rigorous scientific research.",
       "textButton": "Get it Now"
     }
   },
@@ -67,22 +67,22 @@
     "text": "We've been fortunate to collaborate with leading health institutions, senior care facilities, and compassionate families and caregivers dedicated to addressing Alzheimer's challenges. Our partners include research centers, nursing homes, and non-profits supporting dementia patients.",
     "cards": [
       {
-        "head": ["ARneuro", "CARE"],
+        "head": ["", "COGNOAR"],
         "quote": "We're revolutionizing Alzheimer's care with our augmented reality platform, fostering memory, cognition, and emotional connections.",
         "clienteImg": "client1.png",
         "name": "Denny Hilguston",
         "email": "@denny.hill"
       },
       {
-        "head": ["ARneuro", "CARE"],
+        "head": ["", "COGNOAR"],
         "quote": "We're empowering Alzheimer's minds with our immersive augmented reality platform, fostering cognition and emotional well-being. Join us in shaping a future where cognitive care means hope and possibility.",
         "clienteImg": "client2.png",
         "name": "Vani Pandey",
         "email": "@vani.pandey"
       },
       {
-        "head": ["ARneuro", "CARE"],
-        "quote": "ARneuroCARE, an AR content platform, revolutionizes cognitive care for Alzheimer's patients, offering a unique, effective experience shaped by years of research.",
+        "head": ["", "COGNOAR"],
+        "quote": "Cognoar, an AR content platform, revolutionizes cognitive care for Alzheimer's patients, offering a unique, effective experience shaped by years of research.",
         "clienteImg": "client3.png",
         "name": "milly Singh",
         "email": "@milly.singh"
@@ -92,18 +92,18 @@
   "section6": {
     "id": "contact",
     "title": ["Contact", "us!"],
-    "text": "Discover a new dimension in cognitive care with ARneuroCARE.",
+    "text": "Discover a new dimension in cognitive care with Cognoar.",
     "textButton": "Contact",
     "email": "light@mail.com"
   },
   "banner": {
-    "title": "At the forefront of innovation is ARneuroCARE. Our augmented reality content platform is redefining Alzheimer's care.",
+    "title": "At the forefront of innovation is Cognoar. Our augmented reality content platform is redefining Alzheimer's care.",
     "textButton": "Get started"
   },
   "footer": {
     "brand": {
-      "title": "ARneuroCARE",
-      "text": "Care with Compassion, Care with ARneuroCARE At ARneuroCARE, we understand the importance of caring with empathy and understanding. Our augmented reality content platform not only stimulates cognitively, but also nourishes the soul. Join us in our commitment to providing quality care to those affected by Alzheimer's."
+      "title": "COGNOAR",
+      "text": "Care with Compassion, Care with Cognoar At Cognoar, we understand the importance of caring with empathy and understanding. Our augmented reality content platform not only stimulates cognitively, but also nourishes the soul. Join us in our commitment to providing quality care to those affected by Alzheimer's."
     },
     "about": {
       "title": "About"
@@ -112,8 +112,8 @@
       "title": "Contact Us",
       "location": "Canarias, Spain",
       "phone": "230-112-579",
-      "email": "info@arneurocare.com"
+      "email": "info@cognoar.com"
     },
-    "copy": "Copyright © 2024 ARneuroCARE."
+    "copy": "Copyright © 2024 Cognoar."
   }
 }
